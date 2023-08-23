@@ -15,9 +15,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/MrinalGupta7890/Node.js-Authentication"
-  },
   "homepage": "https://github.com/MrinalGupta7890/Node.js-Authentication/blob/main/README.md",
   "dependencies": {
     "bcryptjs": "^2.4.3",
