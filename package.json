@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rahulsups/nodejs-auth.git"
+    "url": "git+https://github.com/MrinalGupta7890/Node.js-Authentication"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rahulsups/nodejs-auth/issues"
+    "url": "https://github.com/MrinalGupta7890/Node.js-Authentication"
   },
   "homepage": "https://github.com/rahulsups/nodejs-auth#readme",
   "dependencies": {
