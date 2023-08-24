@@ -58,7 +58,7 @@ nodejs-auth <br>
 │     ├── key.js <br>
 │     └── passport.js <br>
 ├── config <br>
-│     └──authController.js
+│     └──authController.js <br>
 ├── models <br>
 │     └── User.js <br>
 ├── node_modules <br>
